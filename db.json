@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 17
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 20
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 7
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 12
     },
     {
       "id": 5,
@@ -47,6 +47,42 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Megatron",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Megatron.jpg/220px-Megatron.jpg",
+      "likes": 4,
+      "id": 9
+    },
+    {
+      "name": "Boba Fett",
+      "image": "https://www.metalearth.com/content/images/thumbs/0003834_boba-fett_1200.png",
+      "likes": 4,
+      "id": 10
+    },
+    {
+      "name": "Optimus Prime",
+      "image": "https://www.hasbro.com/common/productimages/en_US/7E9381E58A5D4A8297F4D7F6775CA76C/dbfffdc7a426b7cea6a6b1fd364b6d8c86eddafd.jpg",
+      "likes": 5,
+      "id": 11
+    },
+    {
+      "name": "Baby Groot",
+      "image": "https://i.ebayimg.com/images/g/ax0AAOSwEQ1gtw-D/s-l600.jpg",
+      "likes": 4,
+      "id": 12
+    },
+    {
+      "name": "Bowser",
+      "image": "https://static.wikia.nocookie.net/supermarioglitchy4/images/d/dd/Bowser-Wiki-Render-2021.png/revision/latest?cb=20210611062808",
+      "likes": 7,
+      "id": 13
+    },
+    {
+      "name": "USS Enterprise",
+      "image": "https://www.super-hobby.com/zdjecia/0/9/0/29129_rd.jpg",
+      "likes": 1,
+      "id": 14
     }
   ]
 }
